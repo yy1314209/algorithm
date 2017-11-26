@@ -1,0 +1,7 @@
+4 numbers:0.000002s
+32 numbers:0.000015s
+256 numbers:0.000582s
+2048 numbers:0.025743s
+16384 numbers:1.577331s
+131072 numbers:97.954277s
+
