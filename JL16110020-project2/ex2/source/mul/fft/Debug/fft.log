@@ -1,0 +1,18 @@
+﻿  fft.cpp
+e:\桌面\document\算法导论2017秋\实验\jl16110020-project2\ex2\source\fft\fft\fft.cpp(137): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\桌面\document\算法导论2017秋\实验\jl16110020-project2\ex2\source\fft\fft\fft.cpp(79): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+e:\桌面\document\算法导论2017秋\实验\jl16110020-project2\ex2\source\fft\fft\fft.cpp(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+e:\桌面\document\算法导论2017秋\实验\jl16110020-project2\ex2\source\fft\fft\fft.cpp(94): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+e:\桌面\document\算法导论2017秋\实验\jl16110020-project2\ex2\source\fft\fft\fft.cpp(110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\桌面\document\算法导论2017秋\实验\jl16110020-project2\ex2\source\fft\fft\fft.cpp(120): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\桌面\document\算法导论2017秋\实验\jl16110020-project2\ex2\source\fft\fft\fft.cpp(143): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\桌面\document\算法导论2017秋\实验\jl16110020-project2\ex2\source\fft\fft\fft.cpp(156): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+  fft.vcxproj -> E:\桌面\document\算法导论2017秋\实验\JL16110020-project2\ex2\source\fft\Debug\fft.exe
+  fft.vcxproj -> E:\桌面\document\算法导论2017秋\实验\JL16110020-project2\ex2\source\fft\Debug\fft.pdb (Partial PDB)
